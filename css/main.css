@@ -19,6 +19,7 @@ body {
   height: 50px;
   width: 50px;
   border-radius: 50%;
+  opacity: 0;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
